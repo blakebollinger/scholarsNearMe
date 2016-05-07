@@ -15,6 +15,7 @@
 		FB0B5EC51CDE8AAE00993F49 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB0B5EC31CDE8AAE00993F49 /* LaunchScreen.storyboard */; };
 		FB0B5ED01CDE8AAE00993F49 /* scholarsNearMeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB0B5ECF1CDE8AAE00993F49 /* scholarsNearMeTests.swift */; };
 		FB0B5EDB1CDE8AAE00993F49 /* scholarsNearMeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB0B5EDA1CDE8AAE00993F49 /* scholarsNearMeUITests.swift */; };
+		FB0B5EE91CDE956700993F49 /* whatsapp-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = FB0B5EE81CDE956600993F49 /* whatsapp-logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FB0B5ED61CDE8AAE00993F49 /* scholarsNearMeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = scholarsNearMeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB0B5EDA1CDE8AAE00993F49 /* scholarsNearMeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scholarsNearMeUITests.swift; sourceTree = "<group>"; };
 		FB0B5EDC1CDE8AAE00993F49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB0B5EE81CDE956600993F49 /* whatsapp-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "whatsapp-logo.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				FB0B5EB71CDE8AAE00993F49 /* AppDelegate.swift */,
 				FB0B5EB91CDE8AAE00993F49 /* ViewController.swift */,
 				FB0B5EBB1CDE8AAE00993F49 /* Main.storyboard */,
+				FB0B5EE81CDE956600993F49 /* whatsapp-logo.png */,
 				FB0B5EC11CDE8AAE00993F49 /* Assets.xcassets */,
 				FB0B5EC31CDE8AAE00993F49 /* LaunchScreen.storyboard */,
 				FB0B5EC61CDE8AAE00993F49 /* Info.plist */,
@@ -234,6 +237,7 @@
 			files = (
 				FB0B5EC51CDE8AAE00993F49 /* LaunchScreen.storyboard in Resources */,
 				FB0B5EC21CDE8AAE00993F49 /* Assets.xcassets in Resources */,
+				FB0B5EE91CDE956700993F49 /* whatsapp-logo.png in Resources */,
 				FB0B5EBD1CDE8AAE00993F49 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -486,6 +490,7 @@
 				FB0B5EE11CDE8AAE00993F49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FB0B5EE21CDE8AAE00993F49 /* Build configuration list for PBXNativeTarget "scholarsNearMeTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +499,7 @@
 				FB0B5EE41CDE8AAE00993F49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FB0B5EE51CDE8AAE00993F49 /* Build configuration list for PBXNativeTarget "scholarsNearMeUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +508,7 @@
 				FB0B5EE71CDE8AAE00993F49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
